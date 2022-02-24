@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+
+ .user-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: space-evenly;
+    border-radius: 5px;
+    border-color: black;
+}
+
+/* .hidden {
+  display: none;
+} */
